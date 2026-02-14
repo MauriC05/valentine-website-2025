@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "I love you 3000!",                                   // Text before the percentage
+            startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -43,8 +43,8 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "To infinity and beyondddd!!! 🥰🚀💝",  // Shows when they go past 5000%
-        high: "If you keeo going you'll get your cheeks clapped!!! 🚀💝",              // Shows when they go past 1000%
-        normal: "So much!!! 🥰"                           // Shows when they go past 100%
+        high: "If you keep going you'll get your cheeks clapped!!! 🚀💝",              // Shows when they go past 1000%
+        normal: "Wrong too low! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
