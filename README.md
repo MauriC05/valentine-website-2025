@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Jayde"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -64,7 +64,7 @@ questions: {
     },
     second: {
         text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        startText: "I love you 3000!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
@@ -83,8 +83,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "I am the luckiest guy ever!",     // Celebration title
+    message: "Enjoy your gifts!!!",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
